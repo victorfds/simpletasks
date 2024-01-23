@@ -13,7 +13,7 @@ const schema = z.object({
 });
 
 const defaultValues = {
-  username: 'fredmaia',
+  username: 'victorsilva',
   password: 'abc123',
 };
 

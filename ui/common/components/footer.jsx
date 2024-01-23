@@ -38,21 +38,21 @@ export function Footer() {
             <IconButton
               as="a"
               target="_blank"
-              href="https://github.com/fredmaiaarantes/simpletasks"
+              href="https://github.com/victorfds/simpletasks"
               aria-label="GitHub"
               icon={<FaGithub fontSize="20px" />}
             />
             <IconButton
               as="a"
               target="_blank"
-              href="https://twitter.com/fredmaiaarantes"
+              href="https://twitter.com/victorfdsbr"
               aria-label="Twitter"
               icon={<FaTwitter fontSize="20px" />}
             />
             <IconButton
               as="a"
               target="_blank"
-              href="https://linkedin.com/in/fredmaiaarantes"
+              href="https://linkedin.com/in/victor-fds"
               aria-label="LinkedIn"
               icon={<FaLinkedin fontSize="20px" />}
             />
@@ -70,8 +70,8 @@ export function Footer() {
             Meteor.js
           </a>
           ) by{' '}
-          <a href="https://twitter.com/fredmaiaarantes" target="_blank">
-            @fredmaiaarantes
+          <a href="https://twitter.com/victorfdsbr" target="_blank">
+            @victorfdsbr
           </a>
           .
         </Text>
